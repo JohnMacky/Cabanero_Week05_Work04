@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Cabanero_Week05_Work04\bin\Debug\Cabanero_Week05_Work04.exe.config
+C:\Users\Administrator\source\repos\Cabanero_Week05_Work04\bin\Debug\Cabanero_Week05_Work04.exe
+C:\Users\Administrator\source\repos\Cabanero_Week05_Work04\bin\Debug\Cabanero_Week05_Work04.pdb
+C:\Users\Administrator\source\repos\Cabanero_Week05_Work04\obj\Debug\Cabanero_Week05_Work04.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Cabanero_Week05_Work04\obj\Debug\Cabanero_Week05_Work04.Form1.resources
+C:\Users\Administrator\source\repos\Cabanero_Week05_Work04\obj\Debug\Cabanero_Week05_Work04.List.resources
+C:\Users\Administrator\source\repos\Cabanero_Week05_Work04\obj\Debug\Cabanero_Week05_Work04.ProductForm.resources
+C:\Users\Administrator\source\repos\Cabanero_Week05_Work04\obj\Debug\Cabanero_Week05_Work04.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Cabanero_Week05_Work04\obj\Debug\Cabanero_Week05_Work04.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Cabanero_Week05_Work04\obj\Debug\Cabanero_Week05_Work04.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Cabanero_Week05_Work04\obj\Debug\Cabanero_Week05_Work04.exe
+C:\Users\Administrator\source\repos\Cabanero_Week05_Work04\obj\Debug\Cabanero_Week05_Work04.pdb
